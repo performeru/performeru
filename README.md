@@ -17,8 +17,12 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=performeru)](https://solved.ac/performeru)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=performeru)](https://github.com/performeru/github-readme-stats)
+<div style="display: flex;">
+  <a href="https://solved.ac/performeru">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=performeru" alt="Solved.ac 프로필">
+  </a>
+  <a href="https://github.com/performeru/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=performeru" alt="Anurag's GitHub stats">
+  </a>
+</div>
 
