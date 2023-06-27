@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **performeru@naver.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/presidentpar" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -24,4 +23,9 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/performeru">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fperformeru&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" alt="Github Hits" />
+  </a>
+</p>
 
