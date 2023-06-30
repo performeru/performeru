@@ -1,10 +1,11 @@
 <div align="center">
 📱 _About Me_ 
 <br>
-<a href="https://www.instagram.com/performeru/"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/performeru/"/> </a> <a href="https://twitter.com/presidentpar"> <img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=1DA1F2"/> </a> <a href="https://blog.naver.com/performeru"> <img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/performeru"/> 
+<a href="https://www.instagram.com/performeru/"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/performeru/"/> </a> <a href="https://twitter.com/presidentpar"> <img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=1DA1F2"/> </a> <a href="https://blog.naver.com/performeru"> <img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/performeru"/> </a>
 
-🌱 I’m currently learning 
-
+<br>
+🌱 I’m currently learning
+<br>
 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
